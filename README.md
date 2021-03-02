@@ -1,1 +1,3 @@
-# Everything to know
+#What's this?
+EverthingToGenerate is a generator of numbers,images ect...
+I made it myself and i hope you enjoy it!
