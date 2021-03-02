@@ -1,5 +1,6 @@
-#Number Generator
-import random n = random. random() print(n)
-import random n = random. randint(0,22) print(n)
-import random randomlist = [] for i in range(0,5): n = random. randint(1,30) randomlist. ...
-import random 
+import string, random
+ 
+if __name__ == '__main__':
+ 
+    rand = random.choice(string.ascii_letters)
+    print(rand)
